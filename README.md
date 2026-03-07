@@ -12,11 +12,13 @@
 ---
 
 # 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)]([https://instagram.com/YOUR_USERNAME](https://www.instagram.com/aniket_sharmaa___?igsh=MWdqaDRtZXZ6NmV5eQ==))
+# 🌐 Socials
 
-[![Email](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail)](aryanraj683173@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/aryan-raj-b4b67b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-raj-b4b67b2a9)
 
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/aniket_sharmaa___)
+
+[![Email](https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail)](mailto:aryanraj683173@gmail.com)
 ---
 
 # 💻 Tech Stack
