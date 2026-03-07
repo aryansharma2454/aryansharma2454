@@ -39,13 +39,3 @@
 🔹 Future Projects Coming Soon...
 
 ---
-
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmitsharma-alt&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asmitsharma-alt&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=asmitsharma-alt&theme=tokyonight)
