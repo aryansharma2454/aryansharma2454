@@ -12,7 +12,6 @@
 ---
 
 # 🌐 Socials
-# 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-raj-b4b67b2a9)
 
